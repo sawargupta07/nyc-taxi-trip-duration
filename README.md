@@ -70,5 +70,4 @@ This project explores how trip duration is influenced by spatial coordinates, ti
 | Visualization | `matplotlib`, `seaborn`, `folium` |
 | Modeling | `statsmodels`, `sklearn` |
 | Geospatial | `geopy` |
-| Environment | **Google Colab** + Google Drive |
 
